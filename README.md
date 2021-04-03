@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheGoldenGuardian
-- 👀 I’m interested in games
-- 🌱 I’m currently learning games
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me don't
+- 👀 I’m interested in making games
+- 🌱 I’m currently learning nothing useful
+- 💞️ I’m not looking to collaborate on anything
+- 📫 Don't try to reach me
 
 <!---
 TheGoldenGuardian/TheGoldenGuardian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
